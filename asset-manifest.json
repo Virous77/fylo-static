@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fylo-static/static/css/main.399f01bb.css",
+    "main.js": "/fylo-static/static/js/main.35560f7a.js",
+    "static/media/illustration-intro.png": "/fylo-static/static/media/illustration-intro.c20d85255009f195b4a6.png",
+    "static/media/illustration-stay-productive.png": "/fylo-static/static/media/illustration-stay-productive.5d7a50ea74b08000cd67.png",
+    "static/media/icon-collaboration.svg": "/fylo-static/static/media/icon-collaboration.6c80c0a4c84274f029eb51c36f603765.svg",
+    "static/media/logo.svg": "/fylo-static/static/media/logo.f5363383bf279490c4aba63ca2917a80.svg",
+    "static/media/icon-access-anywhere.svg": "/fylo-static/static/media/icon-access-anywhere.2856c661b15230024a11eb4b089dd3f1.svg",
+    "static/media/icon-any-file.svg": "/fylo-static/static/media/icon-any-file.fc9b91ba9923102f3aa45c19bc3244e6.svg",
+    "static/media/instagram-brands.svg": "/fylo-static/static/media/instagram-brands.65a7cdea349fc8978609db0c5ac7e005.svg",
+    "static/media/twitter-brands.svg": "/fylo-static/static/media/twitter-brands.25e8b9aa126aa0345f9740c58f0c9bfd.svg",
+    "static/media/icon-security.svg": "/fylo-static/static/media/icon-security.b6a932b6269cf10d3339e0a3d22c8b4e.svg",
+    "static/media/icon-arrow.svg": "/fylo-static/static/media/icon-arrow.2491a46a96689783ec3c96bfb90aa30c.svg",
+    "index.html": "/fylo-static/index.html",
+    "static/media/facebook-brands.svg": "/fylo-static/static/media/facebook-brands.f968c4bae61762b90b5e1041498e425b.svg",
+    "main.399f01bb.css.map": "/fylo-static/static/css/main.399f01bb.css.map",
+    "main.35560f7a.js.map": "/fylo-static/static/js/main.35560f7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.399f01bb.css",
+    "static/js/main.35560f7a.js"
+  ]
+}
