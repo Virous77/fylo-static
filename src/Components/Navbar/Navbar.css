@@ -1,0 +1,47 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem;
+}
+
+.logo {
+  width: 10%;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav-items {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.nav a {
+  color: hsl(0, 0%, 100%);
+}
+
+.nav a:hover {
+  color: rgb(196, 193, 193);
+}
+
+@media (max-width: 700px) {
+  .nav {
+    padding: 1rem;
+  }
+
+  .logo {
+    width: 20%;
+  }
+
+  .nav-items {
+    gap: 1rem;
+    font-size: 0.8rem;
+  }
+}

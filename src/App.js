@@ -1,23 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import NavBar from "./Components/Navbar/NavBar";
+import MainHeader from "./Components/MainHeader/MainHeader";
+import FyloDetails from "./Components/FyloDetails/FyloDetails";
+import FyloArticle from "./Components/FyloArticle/FyloArticle";
+import Authors from "./Components/Authors/Authors";
+import EmailModal from "./Components/EmailModal/EmailModal";
+import Footer from "./Components/Footer/Footer";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <NavBar />
+      <MainHeader />
+      <FyloDetails />
+      <FyloArticle />
+      <Authors />
+      <EmailModal />
+      <Footer />
     </div>
   );
 }
